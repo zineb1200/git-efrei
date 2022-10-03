@@ -35,5 +35,14 @@ git push [<alias><branche>] | -u (--set-upstream) | envoi le code source et l'hi
 git stash | | Retire et stocke en mémoire les changements non commités de la branche actuelle |
 git stash apply | | Applique les changements du dernier patch sur la branche courante |
 
+# Création d'un compte Github
+Aller sur github et cliquer sur "Sign up" pour lancer le processus de création de compte.
 
+# Génération d'une clé SSH
+| ssh-keygen |
+Laisser les valeurs par défaut (appuyer plusieurs fois sur la touche Entrée.
+
+Localiser la clé publique (par défaut : C:\Users<username>.ssh) et copier le contenu du fichier id_rsa.pub.
+
+Aller sur github dans les paramètres du compte (icône du compte en haut à droite de l'écran d'accueil >> settings >> SSH and GPG keys >> New SSH Key) et ajouter la clé nouvellement créée et copiée.
 ## test
