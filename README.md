@@ -31,7 +31,4 @@ _je suis un parag en italique _ \
 | git remote add <alias><url dépot distant> | | ajout d'un alias lié d'un url d'un dépot distant |
 | git remote | -v | lister les différentes origine distantes |
 
-
-
-
 ## test
