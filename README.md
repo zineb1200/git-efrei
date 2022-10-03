@@ -32,7 +32,8 @@ _je suis un parag en italique _ \
 | git remote | -v | lister les différentes origine distantes |
 git pull [<alias><branche>] | -u(--set-upstream) | Récupérer les infos d'une branche distante et les fusionner avec la branche courante(équivalent git fetch + git merge) |
 git push [<alias><branche>] | -u (--set-upstream) | envoi le code source et l'historique des versions sur le dépot distant mentionné |
-
+git stash | | Retire et stocke en mémoire les changements non commités de la branche actuelle |
+git stash apply | | Applique les changements du dernier patch sur la branche courante |
 
 
 ## test
