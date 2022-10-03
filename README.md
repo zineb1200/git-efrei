@@ -30,5 +30,9 @@ _je suis un parag en italique _ \
 | git merge | | permet de fusionner l'historique git de deux branches |
 | git remote add <alias><url dépot distant> | | ajout d'un alias lié d'un url d'un dépot distant |
 | git remote | -v | lister les différentes origine distantes |
+git pull [<alias><branche>] | -u(--set-upstream) | Récupérer les infos d'une branche distante et les fusionner avec la branche courante(équivalent git fetch + git merge) |
+git push [<alias><branche>] | -u (--set-upstream) | envoi le code source et l'historique des versions sur le dépot distant mentionné |
+
+
 
 ## test
