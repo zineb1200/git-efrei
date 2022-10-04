@@ -1,8 +1,20 @@
 ## plus petit
 ### encore plus petit
 ###### 6 est le plus petit
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## test pull 
 ## test222
+=======
+## tester branch et fusion
+>>>>>>> Stashed changes
+=======
+## tester branch et fusion
+>>>>>>> Stashed changes
+=======
+## tester branch et fusion
+>>>>>>> Stashed changes
 _je suis un parag en italique _ \
 
 **pour afficher qlq chose en gras**
