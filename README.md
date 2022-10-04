@@ -2,6 +2,7 @@
 ### encore plus petit
 ###### 6 est le plus petit
 ## test pull 
+## test222
 _je suis un parag en italique _ \
 
 **pour afficher qlq chose en gras**
@@ -25,22 +26,10 @@ _je suis un parag en italique _ \
 | git ls-files | | Liste les fichiers suivis par Git |
 | git rm | --cached | | Retirer un ou plusieurs fichiers de l'historique de suivi de Git |
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
-<<<<<<< HEAD
-| git branch | -M, -d, -a | Créer ou renommer une branche de travail |
-| git checkout | -b | (créer si l'option b a été donné)et se positionner sur une branche de travail |
-| git merge | | permet de fusionner l'historique git de deux branches |
-| git remote add <alias><url dépot distant> | | ajout d'un alias lié d'un url d'un dépot distant |
-| git remote | -v | lister les différentes origine distantes |
-git pull [<alias><branche>] | -u(--set-upstream) | Récupérer les infos d'une branche distante et les fusionner avec la branche courante(équivalent git fetch + git merge) |
-git push [<alias><branche>] | -u (--set-upstream) | envoi le code source et l'historique des versions sur le dépot distant mentionné |
-git stash | | Retire et stocke en mémoire les changements non commités de la branche actuelle |
-git stash apply | | Applique les changements du dernier patch sur la branche courante |
-=======
 | git branch | -M , -d , -a(--all) | Créer ou renommer une branche de travail |
 | git merge | | permet de fusionner l'historique git de deux branches |
 
 ## git branch -b test : créer une branche et se positionner dessus automatiquement
->>>>>>> development
 
 # Création d'un compte Github
 Aller sur github et cliquer sur "Sign up" pour lancer le processus de création de compte.
